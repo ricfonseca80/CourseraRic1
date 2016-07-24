@@ -1,0 +1,43 @@
+#chicken{
+	margin-bottom: 10px;
+	font-size: 1.5em;
+}
+#chicken-content{
+	background-color: #ccc;
+	opacity: .8;	
+}
+#menu-title {
+	margin-top: 0px;
+}
+#collapsable-nav li:hover{
+	background-color: red;
+	color: #fff;
+}
+#nav-list{
+	background-color: #ccf;
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+#nav-list li{
+	margin: 10px 0;
+}
+#top-page1, #top-page2{
+	background-color: #ccc;
+	opacity: 0.8;
+}
+hr {
+	margin:0;
+}
+
+
+.navbar-header button.navbar-toggle:not(.collapsed){
+  border: 1px solid #61122f;
+  background-color: red;
+  opacity: 0.5;
+}
+
+#nav-list li:hover{
+	background-color: red;
+}
+
